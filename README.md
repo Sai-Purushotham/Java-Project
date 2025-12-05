@@ -139,6 +139,40 @@ SAIPASSWORDGUI/
 
 ---
 
+📸 Screenshots
+🎯 Main Dashboard
+Password Generator & Strength Checker in One Interface
+
+The clean, unified dashboard featuring:
+
+Password length customization
+
+Character type selection (Lowercase, Uppercase, Numbers, Symbols)
+
+Real-time strength meter with color coding
+
+Quick access buttons for Generate & Save operations
+
+Live password checker below with instant strength feedback
+
+💻 Password Generation in Action
+Batch Generate with Real-Time Strength Visualization
+
+Watch as:
+
+Multiple passwords are generated instantly
+
+Strength indicator updates in real-time (shown in orange/medium strength)
+
+Generated passwords display immediately for review
+
+1-click save functionality ready to deploy
+
+🔍 Password Strength Analysis
+Check Your Own Password - Instant Feedback
+
+
+
 ## 💡 Why This Matters
 
 Every day, billions of weak passwords put users at risk. Password Pro eliminates that problem by making **strong passwords the easy choice**.
