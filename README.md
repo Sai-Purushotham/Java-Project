@@ -29,7 +29,7 @@ Stop trusting weak passwords. Stop worrying about security vulnerabilities. **Pa
 
 ---
 
-## ⚡ Quick Start (3 Minutes)
+## ⚡ Quick Start 
 
 ### Prerequisites
 ```bash
@@ -274,9 +274,9 @@ MIT License—Use it, modify it, share it. No strings attached.
 ## 💬 Questions? Issues? Ideas?
 
 Open an issue on GitHub. The community's here to help.
+Mail Me : purushsai637@gmail.com
+Linkedin : www.linkedin.com/in/sai-purushotham-alahari-37ba26272
 
 ---
 
 **Built with security in mind. Used by developers who care.**
-
-*Last Updated: December 2025*
