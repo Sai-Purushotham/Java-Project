@@ -48,10 +48,6 @@ This project allows users to generate secure passwords, check password strength,
 ![Saved File] <img width="1027" height="454" alt="image" src="https://github.com/user-attachments/assets/ce4a1891-a7ad-49e2-9a49-8f289254ddcb" />
 
 
-> ⚠️ **NOTE:**  
-Place your screenshots inside a folder called **`screenshots/`** in your GitHub repo, and rename them to:  
-`ui-1.png`, `ui-2.png`, `ui-3.png`  
-(or update the paths in README)
 
 ---
 
@@ -69,8 +65,8 @@ SAIPASSWORDGUI/
 ├── passwords.txt (auto-generated after saving)
 └── README.md
 
-yaml
-Copy code
+
+
 
 ---
 
