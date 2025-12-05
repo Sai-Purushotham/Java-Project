@@ -1,5 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/23965859/README.1.md)
+
 # 🔐 Password Pro
+For Downloading purpose of this read me, click here [README (1).md](https://github.com/user-attachments/files/23965859/README.1.md)
 
 > **Generate bulletproof passwords & validate security in seconds.** A sleek, powerful desktop application built for developers who take security seriously.
 
