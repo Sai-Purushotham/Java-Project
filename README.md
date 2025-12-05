@@ -37,7 +37,7 @@ This project allows users to generate secure passwords, check password strength,
 ## 🖥️ Application UI Screenshots  
 
 ### 🔹 Main Interface  
-![Main UI](screenshots/ui-1.png<img width="526" height="589" alt="image" src="https://github.com/user-attachments/assets/c6259cd4-196b-4c6b-aeb0-c0ba3befdb2c" />
+![Main UI](<img width="526" height="589" alt="image" src="https://github.com/user-attachments/assets/c6259cd4-196b-4c6b-aeb0-c0ba3befdb2c" />
 )
 
 ### 🔹 Password Generation  
