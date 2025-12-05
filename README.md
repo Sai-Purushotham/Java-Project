@@ -56,14 +56,11 @@ This project allows users to generate secure passwords, check password strength,
 SAIPASSWORDGUI/
 │
 ├── src/
-│ └── com/sai/passwordgui/
-│ ├── Main.java
-│ ├── PasswordGUI.java
-│ ├── PasswordGenerator.java
-│ ├── PasswordStrengthChecker.java
-│
-├── passwords.txt (auto-generated after saving)
-└── README.md
+│   └── com/sai/passwordgui/
+│       ├── Main.java                 # Application entry point
+│       ├── PasswordGUI.java          # Main UI controller
+│       ├── PasswordGenerator.java    # Password gen
+
 
 
 
