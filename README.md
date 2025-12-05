@@ -37,14 +37,16 @@ This project allows users to generate secure passwords, check password strength,
 ## 🖥️ Application UI Screenshots  
 
 ### 🔹 Main Interface  
-![Main UI](<img width="526" height="589" alt="image" src="https://github.com/user-attachments/assets/c6259cd4-196b-4c6b-aeb0-c0ba3befdb2c" />
-)
+![Main UI] <img width="526" height="589" alt="image" src="https://github.com/user-attachments/assets/d78feb60-0e1d-4d55-93c1-7540476834be" />
+
 
 ### 🔹 Password Generation  
-![Password Generation](screenshots/ui-2.png)
+![Password Generation] <img width="526" height="586" alt="image" src="https://github.com/user-attachments/assets/72fdac9a-04e7-4267-b1bf-a90b222711de" />
+
 
 ### 🔹 Saved Passwords  
-![Saved File](screenshots/ui-3.png)
+![Saved File] <img width="1027" height="454" alt="image" src="https://github.com/user-attachments/assets/ce4a1891-a7ad-49e2-9a49-8f289254ddcb" />
+
 
 > ⚠️ **NOTE:**  
 Place your screenshots inside a folder called **`screenshots/`** in your GitHub repo, and rename them to:  
