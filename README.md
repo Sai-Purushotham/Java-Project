@@ -106,6 +106,20 @@ SAIPASSWORDGUI/
 
 ---
 
+#### 🖥️ Application UI Screenshots  
+
+### 🔹 Main Interface  
+<img width="526" height="589" alt="image" src="https://github.com/user-attachments/assets/4f7505c6-3ef3-4cfa-8b28-fc56e47db769" />
+
+
+### 🔹 Password Generation  
+<img width="526" height="586" alt="image" src="https://github.com/user-attachments/assets/e9d9b89d-cf61-4aff-bf37-489f38e2186c" />
+
+
+### 🔹 Saved Passwords  
+<img width="1027" height="454" alt="image" src="https://github.com/user-attachments/assets/1f2a5ef6-05ee-411c-b103-e703143b3f04" />
+
+
 ## 🎯 Real-World Workflows
 
 ### Scenario 1: Securing New Accounts
