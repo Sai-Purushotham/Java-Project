@@ -244,7 +244,9 @@ MIT License—Use it, modify it, share it. No strings attached.
 ## 💬 Questions? Issues? Ideas?
 
 Open an issue on GitHub. The community's here to help.
+
 Mail Me : purushsai637@gmail.com
+
 Linkedin : www.linkedin.com/in/sai-purushotham-alahari-37ba26272
 
 ---
